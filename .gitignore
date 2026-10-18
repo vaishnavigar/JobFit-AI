@@ -1,0 +1,9 @@
+frontend/node_modules/
+env/
+
+
+*.gguf
+
+__pycache__/
+
+.env
